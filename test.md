@@ -15,6 +15,7 @@
 | Installation | Once the exploitation of the system has been successful, the APT malware code will install itself onto the targeted information system. At this point, the APT malware will begin to download additional software if network access is available. This allows the delivery payload to remain small and undetectable.
 
 The small size of the malware in this example would have limited functionality. Therefore, the APT will download additional components to have better control of the exploited information systems and to penetrate further into the target organization's network |
+
 | Command And Control | Command and control is the sixth phase of the cyber kill chain. Command and control, also known as C2, is when the attacker has put in place their management and communication APT code onto to the target network. This software allows the attacker to fully manage the APT code in the environment and allows the attacker to move deeper into the network, exfiltrate data and conduct destruction or denial of service operations. |
 
 
