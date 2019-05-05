@@ -1,5 +1,5 @@
 # From-Zero-to-Hero-Red-Team-Cyber-Operator
-This repo is suppose to be considered regular update sophisticated techniques.
+This repo is thought to be updated regular update sophisticated techniques.
  
 
 | Date  | Auther | Version | Contact |
