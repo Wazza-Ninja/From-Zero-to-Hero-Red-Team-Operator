@@ -1,5 +1,6 @@
 # From-Zero-to-Hero-Red-Team-Cyber-Operator
-This repo is thought to be updated regular update sophisticated techniques.
+
+This wiki is intended to provide a Red Team and Infra assessment Learning resources From Scratch who wish to start learning infrastructure. This wiki is thought to be updated regular update sophisticated techniques.
  
 
 | Date  | Auther | Version | Contact |
