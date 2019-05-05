@@ -5,7 +5,7 @@ This repo is suppose to be considered regular update sophisticated techniques.
 | Date  | Auther | Version | Contact |
 | ------------- | ------------- |  ------------- | ------------- |
 | 05.05.209  | Wazza Ninja  |  0.0.1 | wazza@ibm.com |
-| Content Cell  | Content Cell  |  0.0.2 | ------------- |
+| Content Cell  | Content Cell  |  0.0.2 | wazza@ibm.com |
 
 
 # Cyber Kill Chain
