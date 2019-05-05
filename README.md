@@ -3,10 +3,10 @@
 This wiki is intended to provide a Red Team and Infra assessment Learning resources From Scratch who wish to start learning infrastructure. This wiki is thought to be updated regular update sophisticated techniques.
  
 
-| Date  | Auther | Version | Contact |
+| Date  | Author | Version | Contact |
 | ------------- | ------------- |  ------------- | ------------- |
-| 05.05.209  | Wazza Ninja  |  0.0.1 | wazza-ninja@gmail.com |
-| Content Cell  | Content Cell  |  0.0.2 | wazza-ninja@gmail.com |
+| 05.05.209  | Wazza   |  0.0.1 | wazza-ninja@gmail.com |
+| Content Cell  | Wazza  |  0.0.2 | wazza-ninja@gmail.com |
 
 
 # Cyber Kill Chain
