@@ -27,7 +27,7 @@ Red Teaming is a multi-layered, full-scope attack simulation program designed to
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
-| git diff | [link text itself]: http://www.reddit.com |
+| git diff |[GitHub](http://github.com) |
 
 
 
