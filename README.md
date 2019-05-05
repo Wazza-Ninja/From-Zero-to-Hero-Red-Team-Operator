@@ -20,7 +20,9 @@
 
 
 # Tools Tactics and Procedures (TTP)
-Red Teaming is a multi-layered, full-scope attack simulation program designed to measure how well people, networks, applications and physical security controls of an organization can withstand an attack from a real-life adversary. This type of assessment is designed for mature organizations that want to test the effectiveness of their defense and overall security level
+Red Teaming is a multi-layered, full-scope attack simulation program designed to measure how well people, networks, applications and physical security controls of an organization can withstand an attack from a real-life adversary. This type of assessment is designed for mature organizations that want to test the effectiveness of their defense and overall security level.
+
+
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
