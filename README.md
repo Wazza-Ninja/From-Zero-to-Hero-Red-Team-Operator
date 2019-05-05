@@ -3,9 +3,9 @@ This repo is suppose to be considered regular update sophisticated techniques.
  
 
 | Date  | Version | Auther |
-| ------------- | ------------- | | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | 
+| ------------- | ------------- |  ------------- |
+| Content Cell  | Content Cell  |  ------------- |
+| Content Cell  | Content Cell  |  ------------- |
 
 
 # Cyber Kill Chain
