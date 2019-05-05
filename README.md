@@ -59,7 +59,7 @@ Red Teaming is a multi-layered, full-scope attack simulation program designed to
 # References
 | Name | references |
 | --- | --- |
-| Google | [GitHub](http://github.com) |
+| Forbes | [Forbes](https://www.forbes.com/sites/forbestechcouncil/2018/10/05/the-cyber-kill-chain-explained/#6c32d31d6bdf) |
 | forbes | [GitHub](http://github.com) |
 | Google | [GitHub](http://github.com) |
 | forbes | [GitHub](http://github.com) |
