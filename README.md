@@ -62,7 +62,7 @@ Red Teaming is a multi-layered, full-scope attack simulation program designed to
 | ---------------- | ------------ |
 | RastaLab | RastaLabs is an immersive Windows Active Directory environment, designed to be attacked as a means of learning and honing your engagement skills |
 | Offshore Pro-Lab | List all new or modified files |
-| Hack The Box | List all new or modified files |
+| Hack The Box | Pen-testing Labs. Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. |
 | Pentest Labs | List all new or modified files |
 
 # Recommmeded Books
