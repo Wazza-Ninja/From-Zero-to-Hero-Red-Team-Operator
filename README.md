@@ -37,7 +37,7 @@ Red Teaming is a multi-layered, full-scope attack simulation program designed to
 | Command | Description |
 | --- | --- |
 | How To use Cobalt Strike | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| How To use PS Empire  | Show file differences that haven't been staged |
 
 
 | Command | Description |
