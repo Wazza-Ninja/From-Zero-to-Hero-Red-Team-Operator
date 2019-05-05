@@ -1,6 +1,6 @@
 # From-Zero-to-Hero-Red-Team-Cyber-Operator
-
-
+This repo is suppose to be considered regular update sophisticated techniques.
+ 
 
 | First Header  | Second Header | 
 | ------------- | ------------- |
