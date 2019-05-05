@@ -60,6 +60,14 @@ Red Teaming is a multi-layered, full-scope attack simulation program designed to
 | Writter | Books | Description |
 | --- | --- | --- |
 | git status | List all new or modified files | List all new or modified files |
+| git status | List all new or modified files | List all new or modified files |
+| git status | List all new or modified files | List all new or modified files |
+| git status | List all new or modified files | List all new or modified files |
+| git status | List all new or modified files | List all new or modified files |
+| git status | List all new or modified files | List all new or modified files |
+
+
+
 
 # References
 | Name | references |
