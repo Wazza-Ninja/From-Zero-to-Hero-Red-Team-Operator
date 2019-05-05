@@ -31,6 +31,9 @@ Red Teaming is a multi-layered, full-scope attack simulation program designed to
 
 
 
+# Learn Red Team From Scratch Section
+
+
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
