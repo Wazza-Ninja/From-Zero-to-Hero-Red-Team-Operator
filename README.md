@@ -2,7 +2,7 @@
 This repo is suppose to be considered regular update sophisticated techniques.
  
 
-| First Header  | Second Header | 
+| Date  | Version | 
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | 
