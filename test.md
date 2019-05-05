@@ -8,9 +8,9 @@
 # Cyber Kill Chain
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified filesdsflkjaalkssjfjkksjflksjdlkfjsjlkfjklksjdflksjdfkkjsdkfkjaslkdfk |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
+| reconnaissances | List all new or modified filesdsflkjaalkssjfjkksjflksjdlkfjsjlkfjklksjdflksjdfkkjsdkfkjaslkdfk |
+| Weaponization | Show file differences that haven't been staged |
+| Initial access | Show file differences that haven't been staged |
 | git diff | Show file differences that haven't been staged |
 | git diff | Show file differences that haven't been staged |
 | git diff | Show file differences that haven't been staged |
