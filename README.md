@@ -2,8 +2,8 @@
 This repo is suppose to be considered regular update sophisticated techniques.
  
 
-| Date  | Version | 
-| ------------- | ------------- |
+| Date  | Version | Auther |
+| ------------- | ------------- | | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | 
 
