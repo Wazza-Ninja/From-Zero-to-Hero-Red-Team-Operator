@@ -74,7 +74,7 @@ Red Teaming is a multi-layered, full-scope attack simulation program designed to
 | Author | Books | Description |
 | --- | --- | --- |
 | Peter Kim | LThe Hacker Playbook 3 | The author explains techniques in simple-to-understand concepts while backing them up with real-life code.  |
-| git status | List all new or modified files | List all new or modified files |
+| Sparc FLOW | How to Hack Like a LEGEND | Overall nice introduction to Microsoft ATP, ATA protection mechanisms and how to bypass them to some extent |
 | git status | List all new or modified files | List all new or modified files |
 | git status | List all new or modified files | List all new or modified files |
 | git status | List all new or modified files | List all new or modified files |
