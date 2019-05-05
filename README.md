@@ -2,10 +2,10 @@
 This repo is suppose to be considered regular update sophisticated techniques.
  
 
-| Date  | Version | Auther |
+| Date  | Auther | Version |
 | ------------- | ------------- |  ------------- |
-| Content Cell  | Content Cell  |  ------------- |
-| Content Cell  | Content Cell  |  ------------- |
+| 05.05.209  | Wazza Ninja  |  0.0.1 |
+| Content Cell  | Content Cell  |  0.0.2 |
 
 
 # Cyber Kill Chain
