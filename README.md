@@ -59,9 +59,9 @@ Red Teaming is a multi-layered, full-scope attack simulation program designed to
 # Red Team Simulation Online Lab
  
 | Labs | Description |
-| --- | --- |
+| ---------------- | ------------ |
 | RastaLab | RastaLabs is an immersive Windows Active Directory environment, designed to be attacked as a means of learning and honing your engagement skills |
-| git status | List all new or modified files |
+| Offshore Pro-Lab | List all new or modified files |
 | Hack The Box | List all new or modified files |
 | Pentest Labs | List all new or modified files |
 
